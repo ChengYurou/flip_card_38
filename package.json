@@ -1,0 +1,30 @@
+{
+	"name": "flipCard40",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node node_modules/react-native/local-cli/cli.js start",
+		"test": "jest"
+	},
+	"dependencies": {
+		"react": "15.4.0-rc.4",
+		"react-native": "0.38",
+		"lodash": "4.17.4"
+	},
+	"devDependencies": {
+		"babel-jest": "23.6.0",
+		"babel-preset-react-native": "4.0.1",
+		"jest": "23.6.0",
+		"jest-react-native": "18.0.0",
+		"react-test-renderer": "15.4.0-rc.4",
+		"eslint": "5.3.0",
+		"eslint-config-airbnb": "17.1.0",
+		"eslint-plugin-import": "2.14.0",
+		"eslint-plugin-jsx-a11y": "6.1.1",
+		"eslint-plugin-react": "7.11.1",
+		"eslint-plugin-react-native": "3.2.1"
+	},
+	"jest": {
+		"preset": "react-native"
+	}
+}

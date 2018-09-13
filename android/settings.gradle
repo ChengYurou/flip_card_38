@@ -1,0 +1,3 @@
+rootProject.name = 'flipCard40'
+
+include ':app'
